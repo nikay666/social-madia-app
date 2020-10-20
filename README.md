@@ -1,2 +1,2 @@
 # social-madia-app
-Study project React / GraphQL Course - Build a social media app 
+Study project React / GraphQL (MERNG Stack). Course from freeCodeCamp.org - Build a social media app
